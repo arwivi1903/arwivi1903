@@ -20,7 +20,7 @@
 
 ---
 
-<h2>🚀 Top Projects & Currently Building</h2>
+<h2>🚀 Top Projects &amp; Currently Building</h2>
 
 <table>
   <thead>
@@ -106,7 +106,7 @@
   <li>🌐 <strong>Main Portfolio:</strong> <a href="https://echoshift.net/">echoshift.net</a></li>
   <li>🤝 <strong>Active Collaboration:</strong> Building <a href="https://kurs.pro">KursPro</a></li>
   <li>💬 <strong>Ask Me About:</strong> Industrial IoT, Python for Shop-Floor Analytics, PHP &amp; SQL Optimization</li>
-  <li>✉️ <strong>Direct Email:</strong> <a href="mailto:Ozgulb@gmail.com">Ozgulb@gmail.com</a></li>
+  <li>✉️ <strong>Direct Email:</strong> <a href="mailto:bilal@echoshift.net">bilal@echoshift.net</a></li>
 </ul>
 
 <p align="center">
