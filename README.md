@@ -106,7 +106,7 @@
   <li>🌐 <strong>Main Portfolio:</strong> <a href="https://echoshift.net/">echoshift.net</a></li>
   <li>🤝 <strong>Active Collaboration:</strong> Building <a href="https://kurs.pro">KursPro</a></li>
   <li>💬 <strong>Ask Me About:</strong> Industrial IoT, Python for Shop-Floor Analytics, PHP &amp; SQL Optimization</li>
-  <li>✉️ <strong>Direct Email:</strong> <a href="mailto:bilal@echoshift.net">bilal@echoshift.net</a></li>
+  <li>✉️ <strong>Direct Email:</strong> <a href="mailto:bilaozgul@echoshift.net">bilal@echoshift.net</a></li>
 </ul>
 
 <p align="center">
